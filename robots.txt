@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: https://sol.hockey/sitemap.xml
+Disallow: /ghost/
+Disallow: /author/
+Host: https://sol.hockey
